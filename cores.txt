@@ -1,6 +1,0 @@
-Vermelho = Calor, Intensidade, Desejo, Agressividade, Perigo
-Laranja = Calor, Alegria, Espontâneo, Criatividade, Vitalidade
-Amarelo = Calor, Alegria, Luz, Positividade, Vitalidade
-Verde = Frio, Saúde, Crescimento, Estabilidade, Natureza
-Azul = Frio, Calma, Sabedoria, Espiritualidade, Clareza
-Roxo = Frio, Serenidade, Riqueza, Criatividade, Sofisticado
