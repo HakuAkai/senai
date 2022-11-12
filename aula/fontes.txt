@@ -1,0 +1,15 @@
+script = parece que ta escrita a mão
+serifa = pontas com traço
+egípcia = serifa mais forte
+blackletter/gótica = gótica (num sei
+TTF = truetype font = fontes nativas
+OTF - opentyper font = fontes nativas que funcionam ndigitalmente e impressa
+
+máximo 13 palavras por linha
+máximo 6 escalas para fontes
+peso dos caracteres = 1 a 6
+pareamento tipografico = técnica de combinar duas fontes
+
+altura e espaçamento:
+tamanho de letra x pontos
+espaçamento x vezes o ponto
