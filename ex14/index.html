@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/cs2?family=Mulish:wght@600;700;900$family=Quicksand;wght@400;500;600;700&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Mulish:wght@600;700;900&family=Quicksand:wght@400;500;600;700&display=swap">
 </head>
 <body>
     <header class="header" data-header>
@@ -77,18 +77,18 @@
                 <section class="about">
 
                     <div class="container">
+                        <div class="about-content">
+                            <div class="about-icon">
+                                <ion-icon name="cube"></ion-icon>
+                            </div>
 
-                        <div class="about-icon">
-                            <ion-icon name="cube"></ion-icon>
+                            <h2 class="h2 about-title">Why Choose Us?</h2>
+                            <p class="about-text">
+                                Nam libero tempore cum soluta as nobis est eligendi optio cumque nihile impedite quo minus id quod maxime.
+                            </p>
+
+                            <button class="btn btn-outline">Learn More</button>
                         </div>
-
-                        <h2 class="h2 about-title">Why Choose Us?</h2>
-                        <p class="about-text">
-                            Nam libero tempore cum soluta as nobis est eligendi optio cumque nihile impedite quo minus id quod maxime.
-                        </p>
-
-                        <button class="btn btn-outline">Learn More</button>
-
                         <ul class="about-list">
 
                             <li>
@@ -104,13 +104,11 @@
                             </li>
 
                             <li>
-                                <div>
-                                    <li>
-                                        <div class="about-card">
-                                            <ion-icon name="shield-checkmark">
-                                            </ion-icon>
-                                        </div>
-                                    </li>
+                                <div class="about-card">
+                                    <div class="card-icon">
+                                        <ion-icon name="shield-checkmark">
+                                        </ion-icon>
+                                    </div>
                                     <h3 class="h3 card-title">Analytics Security</h3>
                                     <p class="card-text">
                                         Sed ut perspiciatis unde omnis iste natus error sit voluptatem.
@@ -347,14 +345,14 @@
         <footer>
             <div class="footer-top">
                 <div class="container">
-                    <div aria-colcount="footer-brand">
+                    <div class="footer-brand">
                         <a href="#" class="logo">
                             <img src="assets/img/logo-footer.svg" alt="Landio logo">
                         </a>
                         <p class="footer-text">
                             Lorem ipsum dolor sit amet consectetur adipisicing elit. 
                         </p>
-                        <ul class="footer">
+                        <ul class="social-list">
                             <li>
                                 <a href="#" class="social-link">
                                     <ion-icon name="logo-facebook"></ion-icon>
@@ -402,6 +400,13 @@
                             <li><a href="#" class="footer-link">Guide</a></li>
                         </ul>
                     </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <div class="container">
+                    <p class="copyright">
+                        &copy; 2022 <a href="">codewithsadee</a>. All Right Reserved
+                    </p>
                 </div>
             </div>
         </footer>
